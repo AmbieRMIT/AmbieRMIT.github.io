@@ -1,0 +1,9 @@
+img.inline {
+  display: inline-block;
+}
+p, div {
+  font-family: "Times New Roman", serif;
+}
+body>div.container {
+  max-width: 70rem;
+}
